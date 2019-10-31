@@ -1,0 +1,2 @@
+# JRAssets
+为项目的Assets.xcassets中的图片自动生成UIImage的Category
