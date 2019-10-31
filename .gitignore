@@ -61,6 +61,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
-*shell/UIImage+JRHelper.h
-*shell/UIImage+JRHelper.m
+*UIImage+JRHelper.h
+*UIImage+JRHelper.m
 *.DS_Store
